@@ -1,0 +1,12 @@
+c:\users\migueltoralba\documents\visual studio 2013\Projects\MiguelToralbaFinalProject\MiguelToralbaFinalProject\bin\Debug\MiguelToralbaFinalProject.exe.config
+c:\users\migueltoralba\documents\visual studio 2013\Projects\MiguelToralbaFinalProject\MiguelToralbaFinalProject\obj\Debug\MiguelToralbaFinalProject.csprojResolveAssemblyReference.cache
+c:\users\migueltoralba\documents\visual studio 2013\Projects\MiguelToralbaFinalProject\MiguelToralbaFinalProject\bin\Debug\MiguelToralbaFinalProject.exe
+c:\users\migueltoralba\documents\visual studio 2013\Projects\MiguelToralbaFinalProject\MiguelToralbaFinalProject\bin\Debug\MiguelToralbaFinalProject.pdb
+c:\users\migueltoralba\documents\visual studio 2013\Projects\MiguelToralbaFinalProject\MiguelToralbaFinalProject\obj\Debug\MiguelToralbaFinalProject.exe
+c:\users\migueltoralba\documents\visual studio 2013\Projects\MiguelToralbaFinalProject\MiguelToralbaFinalProject\obj\Debug\MiguelToralbaFinalProject.pdb
+C:\Users\migueltoralba\Documents\Visual Studio 2013\Projects\MiguelToralbaFinalProject - Copy\MiguelToralbaFinalProject\bin\Debug\MiguelToralbaFinalProject.exe.config
+C:\Users\migueltoralba\Documents\Visual Studio 2013\Projects\MiguelToralbaFinalProject - Copy\MiguelToralbaFinalProject\obj\Debug\MiguelToralbaFinalProject.exe
+C:\Users\migueltoralba\Documents\Visual Studio 2013\Projects\MiguelToralbaFinalProject - Copy\MiguelToralbaFinalProject\obj\Debug\MiguelToralbaFinalProject.pdb
+C:\Users\migueltoralba\Documents\Visual Studio 2013\Projects\MiguelToralbaFinalProject - Copy\MiguelToralbaFinalProject\bin\Debug\MiguelToralbaFinalProject.exe
+C:\Users\migueltoralba\Documents\Visual Studio 2013\Projects\MiguelToralbaFinalProject - Copy\MiguelToralbaFinalProject\bin\Debug\MiguelToralbaFinalProject.pdb
+C:\Users\migueltoralba\Documents\Visual Studio 2013\Projects\MiguelToralbaFinalProject - Copy\MiguelToralbaFinalProject\obj\Debug\MiguelToralbaFinalProject.csprojResolveAssemblyReference.cache
